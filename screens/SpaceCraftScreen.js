@@ -5,7 +5,7 @@ export default class SpaceCraftScreen extends Component{
     render(){
         return(
             <View style={{flex:1,justifyContent:'center',alignItems:'center'}}>
-                <Text>SpaqceCraft Screen!</Text>
+                <Text>SpaceCraft Screen!</Text>
             </View>
         )
     }
